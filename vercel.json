@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/chatbot", "destination": "/public/chatbot.html" }
+    { "source": "/.*", "destination": "/public/chatbot.html" }
   ]
 }
